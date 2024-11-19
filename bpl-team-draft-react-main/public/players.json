@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "image": "https://i.ibb.co.com/F40Zs42/17kohli1.jpg",
+    "country": "India",
+    "player_role": "Batsman",
+    "rating": 9.4,
+    "handedness": "Right-handed",
+    "price": "4400000"
+  },
+  {
+    "id": 2,
+    "name": "Shakib Al Hasan",
+    "image": " https://i.ibb.co.com/qJWbxLd/shakib-al-hasan-1200g.webp",
+    "country": "Bangladesh",
+    "player_role": "All-Rounder",
+    "rating": 8.9,
+    "handedness": "Left-handed",
+    "price": "2000000"
+  },
+    {
+      "id": 4,
+      "name": "Harry Tector ",
+      "image": "https://i.ibb.co.com/qJjDMjV/2022-07-precociously-talented-harry-tector-tons-up-dublin-3985-btsuwn-630x500.jpgp",
+      "country": "Ireland",
+      "player_role": "Batsman",
+      "rating": 9.1,
+      "handedness": "Right-handed",
+      "price": "2500000"
+    },
+    {
+      "id": 3,
+      "name": "Rohit Sharma",
+      "image": "https://i.ibb.co.com/hKm4Fjf/rohitsharmacaptaincy-one-one.jpg",
+      "country": "India",
+      "player_role": "All-Rounder",
+      "rating": 9.5,
+      "handedness": " Right-handed",
+      "price": "3000000"
+    },
+   
+    {
+      "id": 5,
+      "name": "Charith Asalanka",
+      "image": "https://i.ibb.co.com/t8qPnhk/ICC-CWC-BNG-VS-SL-079.png",
+      "country": "Sri Lanka",
+      "player_role": "Batsman",
+      "rating": 9.2,
+      "handednesss": "Left-handed",
+      "price": "2200000"
+    },
+   
+    {
+      "id": 6,
+      "name": "Shane Watson",
+      "image": "https://i.ibb.co.com/fYnnMQy/Shane-Watson-jpg.webp",
+      "country": "Australia",
+      "player_role": "All-Rounder",
+      "rating": 9.3,
+      "handedness": "Right-handed",
+      "price": "3100000"
+    },
+    {
+      "id": 7,
+      "name": "MS Dhoni",
+      "image": "https://i.ibb.co.com/L0xYjKj/MS-Dhoni-1.webp",
+      "country": "India",
+      "player_role": "Batsman",
+      "rating": 9.9,
+      "handedness": "Right-handed",
+      "price": "3400000"
+    },
+    {
+      "id": 8,
+      "name": "Shubman Gill",
+      "image": "https://i.ibb.co.com/zRkHTdK/hq720.jpg",
+      "country": "India",
+      "player_role": "Batsman",
+      "rating": 9.1,
+      "handedness": "Right-handed",
+      "price": "3600000"
+    },
+    {
+      "id": 9,
+      "name": "Shahid Afridi",
+      "image": "https://i.ibb.co.com/dpK9yB2/Shahid-Afridi-Is-Either-41-44-Or-46-Years-Old-Now1200-603c97aef1138.jpg",
+      "country": "Pakistan",
+      "player_role": "All-Rounder",
+      "rating": 9.4,
+      "handedness": "Right-handed",
+      "price": "3600000"
+    }
+  ]
+  
+  
+
+
+
+  
+
+  
+  
+  
+
+  
+  
+
